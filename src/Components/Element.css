@@ -2,19 +2,21 @@
     margin-top: 20px;
     background-color: rgb(178, 244, 178);
     padding: 7px;
+    border-radius: 3px;
     }
 #d1{
-width: 25%;
+width: 28%;
 
 }
 #d2{
-    width: 22%;
+    width: 25%;
 }
 #d3{
-    width: 34%;
+    width: 35%;
 }
 .elDiv{
-    background-color: rgb(104, 160, 104);
+    background-color: rgb(162, 228, 162);
     margin-top: 8px;
     height: 18px;
 }
+

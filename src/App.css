@@ -3,8 +3,9 @@
 }
 
 .App-header {
-  background-color: #a5a597;
-  width: 46%;
+  background-color: rgb(193, 253, 193);
+  width: 40%;
+  border-radius: 3px;
  
 }
 
