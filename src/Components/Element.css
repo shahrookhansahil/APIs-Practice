@@ -1,0 +1,20 @@
+#elmnt{
+    margin-top: 20px;
+    background-color: rgb(178, 244, 178);
+    padding: 7px;
+    }
+#d1{
+width: 25%;
+
+}
+#d2{
+    width: 22%;
+}
+#d3{
+    width: 34%;
+}
+.elDiv{
+    background-color: rgb(104, 160, 104);
+    margin-top: 8px;
+    height: 18px;
+}

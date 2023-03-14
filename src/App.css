@@ -1,0 +1,19 @@
+.App {
+  margin: 20px;
+}
+
+.App-header {
+  background-color: #a5a597;
+  width: 46%;
+ 
+}
+
+button {
+  margin-right: 20px;
+  background-color: rgb(126, 254, 126);
+  border-color: rgb(126, 254, 126);
+  border-radius: 5px;
+}
+#srch{
+  float: right;
+}
